@@ -77,7 +77,7 @@ sudo ./engine supervisor ./rootfs-base
 
 ### 1. Multi-container Supervision
 
-![Multi Container](screenshots/multi_container.png)
+![Multi Container](screenshots/1_multi_container.png.png)
 
 **Observed Output:**
 
