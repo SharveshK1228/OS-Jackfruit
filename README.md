@@ -91,7 +91,7 @@ beta   32620   running
 
 ### 2. Metadata Tracking
 
-![PS Metadata](screenshots/2_ps_metadata.png)
+![PS Metadata](screenshots/ps_metadata.png)
 
 **Observed Output:**
 
@@ -105,7 +105,7 @@ beta   32620   running
 
 ### 3. Logging System
 
-![Logging](screenshots/3_logging.png)
+![Logging](screenshots/logging.png)
 
 **Observed Output:**
 
@@ -117,7 +117,7 @@ hello
 
 ### 4. CLI and IPC
 
-![CLI IPC](screenshots/4_cli_ipc.png)
+![CLI IPC](screenshots/cli_ipc.png)
 
 **Observed Output:**
 
@@ -131,7 +131,7 @@ hello
 
 ### 5. Soft-limit Monitoring (Kernel)
 
-![Soft Limit](screenshots/5_soft_limit.png)
+![Soft Limit](screenshots/soft_limit.png)
 
 **Observed Output:**
 
@@ -143,7 +143,7 @@ Monitor: PID=32620 soft=40MB hard=64MB
 
 ### 6. Hard-limit Handling
 
-![Hard Limit](screenshots/6_hard_limit.png)
+![Hard Limit](screenshots/hard_limit.png)
 
 **Observed Output:**
 
@@ -155,7 +155,7 @@ alpha 28586 stopped
 
 ### 7. Scheduling Experiment
 
-![Scheduling](screenshots/7_scheduling.png)
+![Scheduling](screenshots/scheduling.png)
 
 **Observed Output:**
 
@@ -168,7 +168,7 @@ real    0m2.0s
 
 ### 8. Clean Teardown
 
-![Cleanup](screenshots/8_cleanup.png)
+![Cleanup](screenshots/cleanup.png)
 
 **Observed Output:**
 
