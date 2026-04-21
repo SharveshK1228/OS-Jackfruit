@@ -9,7 +9,7 @@ A lightweight Linux container runtime written in C with a long-running superviso
 | Name         | SRN           |
 | ------------ | ------------- |
 | Sharvesh K   | PES1UG24AM260 |
-| Shruti Choudary | PES1UG24AM271 |
+| Shruti Choudhary | PES1UG24AM271 |
 
 ---
 
